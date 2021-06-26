@@ -1,1 +1,1 @@
-# QUIZ-API
+# mcq-quiz
